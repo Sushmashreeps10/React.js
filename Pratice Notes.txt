@@ -1,0 +1,24 @@
+React JS
+
+*React is JS library
+*A javascript library for building user interface
+*so this is used to single Page Application
+*create user interface from components
+
+-High demand due to high speed.
+
+error / to start the project -> 
+
+>npx create-react-app projectname
+>cd projectname
+>npm install --save-dev ajv@^7
+>npm start
+
+package.json = packages and libraries and package dependencies
+package-lock.json = contains each dependency of packages in detailed package
+
+ ternary operator -> " : ?"
+eg1 : condition ? expressionIfTrue : expressionIfFalse
+eg2 : let age = 20;
+      let isAdult = age >= 18 ? "Adult" : "Minor";
+      console.log(isAdult); // Output: Adult
